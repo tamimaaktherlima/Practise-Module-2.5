@@ -1,0 +1,219 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(images/img\ 5.png);
+    width: 2660px;
+    height: 700px;
+    padding: 15px;
+    
+}
+.logo{
+    width: 12px;
+    height: 50px;
+    margin-left: 250px;
+
+}
+li{
+    list-style: none;
+    color: orange;
+    cursor: pointer;
+}
+.list-coantainer{
+    display: flex;
+    gap: 40px;
+    margin-right: 200px;
+    font-size: 35px;
+    position:static;
+}
+ .header{
+    position:absolute;
+    margin-top: 300px;
+    margin-left: 250px;
+ }
+ .btn{
+    color: black;
+    background-color: orange;
+    padding: 8px;
+    border-radius: 5px;
+    margin-left: 80px;
+    margin-top: 5px;
+ }
+ #ti{
+    width: 600px;
+    height: 150px;
+    font-size: 28px;
+    margin-left:  1080px;
+ }
+ #para{
+    color: white;
+    font-size: 45px;
+    font-style: italic;
+ }
+ .nav-img{
+    width: 280px;
+    height: 250px;
+ }
+#head{
+    color: orange;
+    font-size: 25px;
+}
+ .img-container{
+    display: flex;
+    gap: 50px;
+    padding: 35px;
+    margin-left: 36%;
+ }
+ .title{
+    margin-top: 30px;
+    font-size: 40px;
+    text-align: center;
+ }
+ .service-img{
+    width: 300px;
+    margin-top: 50px;
+ }
+ .service1{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 15px; */
+ }
+ .service-card{
+    width: 600px;
+    height: 300px;
+    border: 2px solid gray;
+    text-align: center;
+    /* gap: 25px; */
+    margin-top: 75px;
+ }
+ .description{
+    margin-top: 8px;
+    text-wrap: 5px;
+    font-size: 28px;
+ }
+ #card title{
+    margin-top: 35px;
+ }
+ 
+ .content{
+    display: flex;
+    justify-content: space-around;
+    /* margin-left: 25px; */
+ }
+ .image{
+    width: 700px;
+    height: 650px;
+    margin-left: 55px;
+    margin-top: 100px;
+ }
+ .right-contant{
+    /* text-align: center; */
+    font-size: 28px;
+    margin-top: 55px;
+ }
+ .right-btn{
+    color: white;
+    font-size: 25px;
+    background-color: rgb(18, 26, 66);
+    border: none;
+    padding: 10px;
+    border-radius: 3px;
+    /* margin-top: 95px; */
+ }
+ .banner{
+    margin-left: 45px;
+    margin-top: 150px;
+ }
+ .Up-text{
+    color: orange;
+    margin-top: 20px;
+    font-size: 55px;
+ }
+ .img-rn{
+    width: 50px;
+    margin-top: 50px;
+ }
+ .free{
+    display: flex;
+ }
+ .get{
+    margin-top: 50px;
+    margin-left: 5px;
+    font-family: "Nunito Sans", sans-serif
+    
+ }
+ .phone{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 28px;
+    font-family: "Nunito Sans", sans-serif
+    
+    
+ }
+ .finish{
+    display: flex;
+    justify-content: space-around;
+    /* margin-top: 35px; */
+    background-color: black;
+    /* margin-bottom: 30px; */
+    padding: 30px 20px;
+ }
+ .list{
+    color: white;
+    font-size: 25px;
+    margin-left: 25px;
+
+ }.learn{
+    color: whitesmoke;
+    margin-top: 25px;
+    margin-left: 20px;
+    /* padding: 25px; */
+    font-family:"Nunito Sans", sans-serif ;
+ }
+ .manager{
+    color: orange;
+    margin-top: 37px;
+    font-size: 25px;
+ }
+ .footer-img{
+    width: 80px;
+    margin-top:25px ;
+ }
+ .foot-last{
+    display: flex;
+    /* margin-top: 25px; */
+ }
+ #foot-para{
+    color: white;
+    width: 450px;
+    height: 150px;
+    font-size: 24px;
+ }
+ .foot-text{
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 
+    'Trebuchet MS', sans-serif;
+    margin-top: 10px;
+    font-size: 30px;
+ }
+ .mail{
+    margin-top: 5px;
+    margin-bottom: 25px; 
+
+ }
+ .contact{
+    display: flex;
+ }
+ .office{
+   font-size: 25px;
+    margin-right: 50px;
+ }
+ .address{
+   font-size: 25px;
+    color: whitesmoke;
+    margin-right: 100px;
+ }
+ 
